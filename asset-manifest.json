@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rien_books/static/css/main.ef6b6e71.css",
+    "main.js": "/rien_books/static/js/main.2cc86085.js",
+    "index.html": "/rien_books/index.html",
+    "main.ef6b6e71.css.map": "/rien_books/static/css/main.ef6b6e71.css.map",
+    "main.2cc86085.js.map": "/rien_books/static/js/main.2cc86085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef6b6e71.css",
+    "static/js/main.2cc86085.js"
+  ]
+}
